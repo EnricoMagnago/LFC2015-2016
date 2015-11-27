@@ -1,0 +1,3 @@
+ciao directory
+ada directory dado
+bananadirectory ciao

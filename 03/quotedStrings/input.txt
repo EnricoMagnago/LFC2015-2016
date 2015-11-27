@@ -1,0 +1,2 @@
+"ciao caro \"pippo\", quì tutto ok."
+"ciao""
