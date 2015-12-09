@@ -1,3 +1,0 @@
-ciao
-care
-<a href="ciao bello"/>
